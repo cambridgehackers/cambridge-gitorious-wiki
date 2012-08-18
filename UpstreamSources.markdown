@@ -1,0 +1,19 @@
+
+Here are master locations to find git repos:
+   * https://android.googlesource.com/ https://android.googlesource.com
+   * http://www.igloocommunity.org/gitweb/ git://igloocommunity.org/git
+   * http://nv-tegra.nvidia.com/gitweb/ git://nv-tegra.nvidia.com
+   * http://git.omapzoom.org/ git://git.omapzoom.org
+   * https://www.codeaurora.org/gitweb/quic/qrd-android/ git://codeaurora.org/quic/qrd-android
+   * https://www.codeaurora.org/gitweb/quic/la/ git://codeaurora.org
+
+For Samsung s/w releases (select Mobile->MobilePhone):
+   * http://opensource.samsung.com
+
+For Samsung firmware releases, use the [[http://www.samsung.com/us/kies/] [Samsung Kies]] application to download the software.  Older, outdated information may also be at:
+   * http://samsungflash.webs.com/
+   * http://samsung-updates.com/
+   * http://forums.mobiledia.com/showthread.php?t=29450
+
+
+
