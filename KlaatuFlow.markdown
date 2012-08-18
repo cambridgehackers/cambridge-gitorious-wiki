@@ -1,5 +1,6 @@
    * Get a commercial Android device with the following:
       * Flash image files for boot.img and system.img
+      * A way to flash img files to the device (for example fastboot)
 
    * To build software:
       * Try to locate the closest Android source version (but does not need to be exact)
