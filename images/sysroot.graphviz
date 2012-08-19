@@ -6,5 +6,6 @@ digraph G {
  sysroot -> orig_flash_files_rpm
  gcc_rpm -> work_area
  devel_rpm -> work_area
+ devel_static_libraries_rpm -> work_area [style=dotted];
  work_area -> flash_files
  }
