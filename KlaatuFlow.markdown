@@ -1,4 +1,5 @@
-[workflow]("https://chart.googleapis.com/chart?cht=gv&chs=500x500&chl=digraph%20G%20{%20%20additional_Android_packages%20-%3E%20device_image;%20commercial_device%20-%3E%20extracted_repo;%20extracted_repo%20-%3E%20device_image;%20upstream_sources%20-%3E%20sysroot%20[weight=8];%20sysroot%20-%3E%20device_image%20[style=dotted];%20SuSE_packages%20-%3E%20chroot;%20sysroot%20-%3E%20chroot%20[style=dotted];%20chroot%20-%3E%20binary_rpm;%20binary_rpm%20-%3E%20device_image;%20device_image%20-%3E%20flash_files%20}" "overall work flow")
+
+![workflow]("https://chart.googleapis.com/chart?cht=gv&chs=500x500&chl=digraph%20G%20{%20%20additional_Android_packages%20-%3E%20device_image;%20commercial_device%20-%3E%20extracted_repo;%20extracted_repo%20-%3E%20device_image;%20upstream_sources%20-%3E%20sysroot%20[weight=8];%20sysroot%20-%3E%20device_image%20[style=dotted];%20SuSE_packages%20-%3E%20chroot;%20sysroot%20-%3E%20chroot%20[style=dotted];%20chroot%20-%3E%20binary_rpm;%20binary_rpm%20-%3E%20device_image;%20device_image%20-%3E%20flash_files%20}" "overall work flow")
 
    * Get a commercial Android device with the following:
       * Flash image files for boot.img and system.img
