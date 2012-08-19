@@ -1,5 +1,6 @@
 Here are master locations to find git repos:
 
+<body>
 <table border="1">
 <td>Name</td><td>http website</td><td>git prefix</td>
 <td>google</td><td>https://android.googlesource.com/</td><td>https://android.googlesource.com</td>
@@ -9,6 +10,7 @@ Here are master locations to find git repos:
 <td>Qualcomm quic</td><td>https://www.codeaurora.org/gitweb/quic/qrd-android/</td><td>git://codeaurora.org/quic/qrd-android</td>
 <td>Qualcomm qrd</td><td>https://www.codeaurora.org/gitweb/quic/la/</td><td>git://codeaurora.org</td>
 </table>
+</body>
 
 For Samsung s/w releases (select Mobile->MobilePhone):
    * http://opensource.samsung.com
