@@ -1,6 +1,8 @@
 
-
    [workflow](https://gitorious.org/cambridge/klaatu-manifests/blobs/master/doc/flow.png "Overall Work Flow")
+
+[![Foo](http://www.google.com/images/srpr/logo3w.png)](http://google.com/)
+
 
    * Get a commercial Android device with the following:
       * Flash image files for boot.img and system.img
