@@ -12,6 +12,7 @@ Here are master locations to find git repos:
 </sub></pre>
 
 For Samsung s/w releases (select Mobile->MobilePhone):
+
    * http://opensource.samsung.com
 
 For Samsung firmware releases, use the [Samsung Kies](http://www.samsung.com/us/kies/) application to download the software.  Older, outdated information may also be at:
