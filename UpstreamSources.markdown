@@ -3,8 +3,8 @@ Here are master locations to find git repos:
 <pre><sub>
 | Name     |  http website                              | git prefix
 |---------|------------------------------------------|----------------
-| google       | https://android.googlesource.com/                        | https://android.googlesource.com
-| ste          | http://www.igloocommunity.org/gitweb/           | git://igloocommunity.org/git
+| google       | https://android.googlesource.com/                   | https://android.googlesource.com
+| ste          | http://www.igloocommunity.org/gitweb/               | git://igloocommunity.org/git
 | nvidia       | http://nv-tegra.nvidia.com/gitweb/                  | git://nv-tegra.nvidia.com
 | ti           | http://git.omapzoom.org/                            | git://git.omapzoom.org
 | Qualcomm quic| https://www.codeaurora.org/gitweb/quic/qrd-android/ | git://codeaurora.org/quic/qrd-android
