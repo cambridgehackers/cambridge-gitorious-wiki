@@ -1,7 +1,7 @@
 Here are master locations to find git repos:
 
 <pre><sub>
-| Name         |  http website                                    | git prefix
+| Name         |  http website                                       | git prefix
 |--------------|-----------------------------------------------------|----------------
 | google       | https://android.googlesource.com/                   | https://android.googlesource.com
 | ste          | http://www.igloocommunity.org/gitweb/               | git://igloocommunity.org/git
