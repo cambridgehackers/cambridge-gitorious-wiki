@@ -1,2 +1,1 @@
-
-![picture](/images/android.png)
+[picture](/images/android.png)
