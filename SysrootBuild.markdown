@@ -3,3 +3,5 @@
 Resulting images are placed in:
    * [http://code.google.com/p/klaatu/downloads/list](http://code.google.com/p/klaatu/downloads/list)
 
+![https://code.google.com/p/klaatu/downloads/list](https://code.google.com/p/klaatu/downloads/list)
+
