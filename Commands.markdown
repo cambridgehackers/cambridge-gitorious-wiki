@@ -1,4 +1,3 @@
-
 The following executable programs are available:
 
    * Debug
@@ -12,6 +11,15 @@ The following executable programs are available:
       * logwrapper: Redirect stdout/stderr to Android logging system
       * screencap: Capture framebuffer, using skia to format png
       * screenshot: Capture framebuffer, using libpng to format
+      * procmem
+      * procrank
+      * sane_schedstat
+      * showmap
+      * showslab
+      * cpustats
+      * latencytop
+      * librank
+      * micro_bench
    * Media
       * audioloop: Stagefright debug
       * codec: Stagefright debug
@@ -28,6 +36,7 @@ The following executable programs are available:
    * Network
       * bluetoothd: Bluetooth
       * hciattach: BlueZ initialization utility
+      * hcidump
       * hostapd: User space daemon for IEEE 802.11 AP management
       * hostapd_cli: Command line interface to hostapd
       * mdnsd: mDNSResponder
@@ -41,6 +50,7 @@ The following executable programs are available:
       * wpa_cli: WiFi
       * wpa_supplicant: WiFi
    * Filesystem
+      * check-lost+found
       * make_ext4fs: Create an ext4 filesystem
       * sdcard: Use FUSE to emulate FAT-on-sdcard
       * setup_fs: Wipe partition and make ext4 filesystem
@@ -51,6 +61,11 @@ The following executable programs are available:
       * init: Device run state management
       * linker: Executable binary file loader (like ld-linux.so)
       * run-as: Run as setuid root on production devices (like sudo)
+      * add-property-tag
+      * btool
+      * dhdutil
+      * rawbu
+      * su
    * Other
       * bootanimation: Boot time display animation
       * keystore: Daemon for secure storage for key-value pairs
