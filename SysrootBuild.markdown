@@ -12,6 +12,9 @@ To get started:
     ../klaatu-manifests/scripts/buildrpm
 
 
+To run this build on Ubuntu 11.04:
+    * sudo apt-get install git bison flex lib32gcc1 lib32z1-dev lib32stdc++6 ia32-libs lib32ncursesw5 libxml2-utils
+
 Reference output images are placed in:
    * [http://code.google.com/p/klaatu/downloads/list](http://code.google.com/p/klaatu/downloads/list)
 
