@@ -4,6 +4,7 @@ Preparation:
 
 To run this build on Ubuntu 11.04:
     * sudo apt-get install git bison flex lib32gcc1 lib32z1-dev lib32stdc++6 ia32-libs lib32ncursesw5 libxml2-utils
+
 On Ubuntu 10.04, this has been recommended:
    * sudo apt-get install git-core gnupg flex bison gperf build-essential zip curl zlib1g-dev gcc-multilib g++-multilib libc6-dev-i386 lib32ncurses5-dev ia32-libs x11proto-core-dev libx11-dev lib32readline5-dev lib32z-dev libxml- simple-perl
 
