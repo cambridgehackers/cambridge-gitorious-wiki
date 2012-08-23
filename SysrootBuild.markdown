@@ -9,7 +9,7 @@ To get started:
     source build/envsetup.sh
     lunch full_maguro-userdebug
     make -j33
-    ../buildrpm
+    ../klaatu-manifests/scripts/buildrpm
 
 
 Reference output images are placed in:
