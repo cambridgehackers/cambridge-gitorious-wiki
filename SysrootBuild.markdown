@@ -2,7 +2,7 @@
 
 To get started:
 
-    git clone git@gitorious.org/cambridge/klaatu-manifests.git
+    git clone git://gitorious.org/cambridge/klaatu-manifests.git
     mkdir test
     cd test
     ../klaatu-manifests/scripts/fullbuild android-4.1.1_r4
