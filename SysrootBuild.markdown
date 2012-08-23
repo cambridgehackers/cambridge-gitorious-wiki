@@ -2,14 +2,14 @@
 
 To get started:
 
-git clone git@gitorious.org/cambridge/klaatu-manifests.git<br/>
-mkdir test<br/>
-cd test <br/>
-../klaatu-manifests/scripts/fullbuild android-4.1.1_r4<br/>
-source build/envsetup.sh<br/>
-lunch full_maguro-userdebug<br/>
-make -j33<br/>
-../buildrpm<br/>
+git clone git@gitorious.org/cambridge/klaatu-manifests.git
+mkdir test
+cd test
+../klaatu-manifests/scripts/fullbuild android-4.1.1_r4
+source build/envsetup.sh
+lunch full_maguro-userdebug
+make -j33
+../buildrpm
 
 
 Reference output images are placed in:
