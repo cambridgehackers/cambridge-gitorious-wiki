@@ -18,6 +18,7 @@ For build instructions:
    * [Google](http://source.android.com/source/building.html)
    * [STE/IceCreamSandwich](http://www.igloocommunity.org/support/Android_Getting_started_with_ICS)
    * [STE/Gingerbread](http://www.igloocommunity.org/support/Android_Getting_started_with_GB)
+   * [TI](http://www.omappedia.com/wiki/Building_Android_Filesystem)
 
 
 For Samsung s/w releases (select Mobile->MobilePhone):
