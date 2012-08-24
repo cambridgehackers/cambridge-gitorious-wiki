@@ -13,7 +13,7 @@ Install repo:
     chmod a+x ~/bin/repo
     export PATH=~/bin:$PATH
 
-To get started:
+To get started for Google Galaxy Nexus phone:
 
     git clone git://gitorious.org/cambridge/klaatu-manifests.git
     mkdir test
@@ -24,7 +24,18 @@ To get started:
     make -j33
     ../klaatu-manifests/scripts/buildrpm      (assumes rpmbuild exists as a tool)
 
-Reference output images are placed in:
+For Google Nexus 7 tablet:
+    lunch full_grouper-userdebug
+
+To get started for bsquare MSM8960 smartphone:
+    git clone git://gitorious.org/cambridge/klaatu-manifests.git
+    mkdir test
+    cd test
+    ../klaatu-manifests/scripts/fullbuildq ics_chocolate M8960AAAAANLYA1031A.xml
+    source build/envsetup.sh
+    choosecombo 1 msm8960 eng
+
+Reference output images are periodically placed in:
    * [http://code.google.com/p/klaatu/downloads/list](http://code.google.com/p/klaatu/downloads/list)
 
 
