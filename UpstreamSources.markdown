@@ -12,7 +12,11 @@ Here are master locations to find git repos:
 | Qualcomm qrd | https://www.codeaurora.org/gitweb/quic/la/          | git://codeaurora.org
 </sub>
 </pre>
-<br/>
+
+For build instructions:
+   * [Qualcomm](https://www.codeaurora.org/xwiki/bin/QAEP/)
+   * [Google](http://source.android.com/source/building.html)
+
 
 For Samsung s/w releases (select Mobile->MobilePhone):
 
