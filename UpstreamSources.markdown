@@ -21,9 +21,10 @@ For build instructions:
    * [TI](http://www.omappedia.com/wiki/Building_Android_Filesystem)
 
 
-For Samsung s/w releases (select Mobile->MobilePhone):
+For Vendor s/w releases:
 
-   * http://opensource.samsung.com
+   * [Samsung (select Mobile->MobilePhone)](http://opensource.samsung.com)
+   * [HTC](http://htcdev.com/devcenter/downloads)
 
 For Samsung firmware releases, use the [Samsung Kies](http://www.samsung.com/us/kies/) application to download the software.  Older, outdated information may also be at:
 
