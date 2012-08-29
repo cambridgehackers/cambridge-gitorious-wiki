@@ -34,6 +34,8 @@ To get started for bsquare MSM8960 smartphone:
     ../klaatu-manifests/scripts/fullbuildq ics_chocolate M8960AAAAANLYA1031A.xml
     source build/envsetup.sh
     choosecombo 1 msm8960 eng
+Modify adb_usb.ini so that adb will see your msm8960 device:
+    echo '0x0956;0x9039' > ~/.android/adb_usb.ini
 
 Reference output images are periodically placed in:
    * [http://code.google.com/p/klaatu/downloads/list](http://code.google.com/p/klaatu/downloads/list)
