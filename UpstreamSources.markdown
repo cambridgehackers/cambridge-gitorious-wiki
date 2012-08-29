@@ -25,6 +25,7 @@ For Vendor s/w releases:
 
    * [Samsung (select Mobile->MobilePhone)](http://opensource.samsung.com)
    * [HTC](http://htcdev.com/devcenter/downloads)
+   * [LG](http://www.lg.com/global/support/opensource/opensource.jsp)
 
 For Samsung firmware releases, use the [Samsung Kies](http://www.samsung.com/us/kies/) application to download the software.  Older, outdated information may also be at:
 
