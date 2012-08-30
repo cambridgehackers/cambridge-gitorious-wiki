@@ -1,5 +1,5 @@
 [picture](https://gitorious.org/cambridge/klaatu-manifests/blobs/master/doc/android.png)
-
+<img href="https://gitorious.org/cambridge/klaatu-manifests/blobs/raw/master/doc/android.png">
 Please refer to the above picture while reading this text...
 
 The Android software stack has been put together with quite a clean design:
