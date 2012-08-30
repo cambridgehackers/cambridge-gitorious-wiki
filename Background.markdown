@@ -1,4 +1,3 @@
-[picture](https://gitorious.org/cambridge/klaatu-manifests/blobs/master/doc/android.png)
 
 <img src="https://gitorious.org/cambridge/klaatu-manifests/blobs/raw/master/doc/android.png">
 
