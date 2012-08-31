@@ -33,7 +33,7 @@ To get started for bsquare MSM8960 smartphone:
     cd test
     ../klaatu-manifests/scripts/fullbuildq ics_chocolate M8960AAAAANLYA1031A.xml
     source build/envsetup.sh
-    choosecombo 1 msm8960 eng
+    choosecombo 2 msm8960 eng
 
 Proprietary binaries that are needed for this source version are in:
     Documents and Downloads/Multi-Rev Multi-Build/M8960.LA.1.0 (M8960AAAAANLYD103150)
