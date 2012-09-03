@@ -15,7 +15,7 @@ Here are master locations to find git repos:
 
 For build instructions:
    * [Qualcomm](https://www.codeaurora.org/xwiki/bin/QAEP/)
-      * [LYA Releases (Qualcomm Docs and Downloads)](https://downloads.cdmatech.com/qdc/)
+      * [LYA Releases](https://downloads.cdmatech.com/qdc/)
    * [Google](http://source.android.com/source/building.html)
    * [STE/IceCreamSandwich](http://www.igloocommunity.org/support/Android_Getting_started_with_ICS)
    * [STE/Gingerbread](http://www.igloocommunity.org/support/Android_Getting_started_with_GB)
