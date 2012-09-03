@@ -14,6 +14,7 @@ Here are master locations to find git repos:
 </pre>
 
 For build instructions:
+
    * [Qualcomm](https://www.codeaurora.org/xwiki/bin/QAEP/)
       * [LYA Releases](https://downloads.cdmatech.com/qdc/)
    * [Google](http://source.android.com/source/building.html)
