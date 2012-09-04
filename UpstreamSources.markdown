@@ -17,6 +17,7 @@ For build instructions:
 
    * [Qualcomm](https://www.codeaurora.org/xwiki/bin/QAEP/)
       * [LYA Releases](https://downloads.cdmatech.com/qdc/)
+      * [Quick search](https://support.cdmatech.com/search/faces/search.jspx?sessionControlDisabled=true)
    * [Google](http://source.android.com/source/building.html)
    * [STE/IceCreamSandwich](http://www.igloocommunity.org/support/Android_Getting_started_with_ICS)
    * [STE/Gingerbread](http://www.igloocommunity.org/support/Android_Getting_started_with_GB)
