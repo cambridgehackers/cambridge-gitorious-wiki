@@ -30,6 +30,7 @@ For Vendor s/w releases:
    * [HTC](http://htcdev.com/devcenter/downloads)
    * [LG](http://www.lg.com/global/support/opensource/opensource.jsp)
    * [Sony](http://developer.sonymobile.com/downloads/all-android/)
+   * [ASUS](http://support.asus.com/download/options.aspx?SLanguage=en)
 
 For Samsung firmware releases, use the [Samsung Kies](http://www.samsung.com/us/kies/) application to download the software.  Older, outdated information may also be at:
 
