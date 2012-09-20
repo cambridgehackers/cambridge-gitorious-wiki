@@ -21,7 +21,7 @@ For build instructions:
    * [Google](http://source.android.com/source/building.html)
    * [STE/IceCreamSandwich](http://www.igloocommunity.org/support/Android_Getting_started_with_ICS)
    * [STE/Gingerbread](http://www.igloocommunity.org/support/Android_Getting_started_with_GB)
-   * [TI Omapedia](http://www.omappedia.com/wiki/Building_Android_Filesystem)
+   * [TI Omappedia](http://www.omappedia.com/wiki/Building_Android_Filesystem)
    * [TI Rowboat](http://code.google.com/p/rowboat/)
 
 
