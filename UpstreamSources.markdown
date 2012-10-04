@@ -24,6 +24,7 @@ For build instructions:
    * [TI Omappedia](http://www.omappedia.com/wiki/Building_Android_Filesystem)
    * [TI Rowboat](http://code.google.com/p/rowboat/)
    * [Xilinx ZC702](http://wiki.xilinx.com/android-on-zynq-getting-started-guide)
+      * [BuildingBSP](http://wiki.xilinx.com/android-on-zynq-building-bsp)
 
 
 For Vendor s/w releases:
