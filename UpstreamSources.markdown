@@ -23,6 +23,7 @@ For build instructions:
    * [STE/Gingerbread](http://www.igloocommunity.org/support/Android_Getting_started_with_GB)
    * [TI Omappedia](http://www.omappedia.com/wiki/Building_Android_Filesystem)
    * [TI Rowboat](http://code.google.com/p/rowboat/)
+   * [Xilinx ZC702](http://wiki.xilinx.com/android-on-zynq-getting-started-guide)
 
 
 For Vendor s/w releases:
