@@ -4,6 +4,8 @@
       * frameworks/base/policy/src/com/android/internal/policy/impl/PhoneWindowManager.java:setInitialDisplaySize()
 
    * Filesystems
+   * Encryption of /data and /system is requested by:
+      * frameworks/base/core/java/android/os/Environment.java:isEncryptedFilesystemEnabled()
    * Encryption of /data is done by:
       * system/vold/cryptfs.c:cryptfs_enable()
-   * It looks like setting "ro.crypto.state=unencrypted" might turn this off.
+   * It looks like setting "persist.security.efs.enabled=false" might turn this off.
