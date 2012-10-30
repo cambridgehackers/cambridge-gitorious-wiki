@@ -9,3 +9,8 @@
    * Encryption of /data is done by:
       * system/vold/cryptfs.c:cryptfs_enable()
    * It looks like setting "persist.security.efs.enabled=false" might turn this off.
+
+   * Mapping of linux keycodes to Android keys is done in *.kl files.  For example:
+      * device/asus/grouper/gpio-keys.kl
+
+   * Configuration of things like 'use software emulation for opengles' are in BoardConfig.mk files.
