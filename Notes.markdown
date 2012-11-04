@@ -14,3 +14,6 @@
       * device/asus/grouper/gpio-keys.kl
 
    * Configuration of things like 'use software emulation for opengles' are in BoardConfig.mk files.
+
+   * Capture a baseline with repo:
+      * repo manifest -r -o oldbaseline.xml
