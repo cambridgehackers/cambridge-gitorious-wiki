@@ -18,5 +18,5 @@
    * Capture a baseline with repo:
       * repo manifest -r -o oldbaseline.xml
 
-   * Udev
+   * Udev rules for /etc/udev/rules.d :
       * [80-klaatu.rules](https://gitorious.org/cambridge/cambridge-gitorious-wiki/blobs/raw/master/data/80-klaatu.rules)
