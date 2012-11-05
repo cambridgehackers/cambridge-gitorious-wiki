@@ -19,4 +19,4 @@
       * repo manifest -r -o oldbaseline.xml
 
    * Udev
-      * [[80-klaatu.rules][https://gitorious.org/cambridge/cambridge-gitorious-wiki/blob/master/data/80-klaatu.rules]]
+      * [80-klaatu.rules](https://gitorious.org/cambridge/cambridge-gitorious-wiki/blobs/master/data/80-klaatu.rules)
