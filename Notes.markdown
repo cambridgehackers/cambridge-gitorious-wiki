@@ -17,3 +17,6 @@
 
    * Capture a baseline with repo:
       * repo manifest -r -o oldbaseline.xml
+
+   * Udev
+      * [[rules][data/80-klaatu.rules]]
