@@ -19,4 +19,4 @@
       * repo manifest -r -o oldbaseline.xml
 
    * Udev
-      * [[rules][data/80-klaatu.rules]]
+      *<a href="data/80-klaatu.rules">80-klaatu.rules/</a>
