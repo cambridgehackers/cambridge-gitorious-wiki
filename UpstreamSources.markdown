@@ -25,6 +25,7 @@ For build instructions:
    * [TI Rowboat](http://code.google.com/p/rowboat/)
    * [Xilinx ZC702](http://wiki.xilinx.com/android-on-zynq-getting-started-guide)
       * [BuildingBSP](http://wiki.xilinx.com/android-on-zynq-building-bsp)
+   * [Panda](http://www.omappedia.org/wiki/Android_Panda_Build_Source)
 
 
 For Vendor s/w releases:
