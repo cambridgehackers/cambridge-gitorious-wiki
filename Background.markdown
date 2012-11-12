@@ -1,4 +1,4 @@
-<img src="https://gitorious.org/cambridge/klaatu-manifests/blobs/raw/master/doc/android.png" width="400" height="200">
+<img src="https://gitorious.org/cambridge/cambridge-gitorious-wiki/blobs/raw/master/images/android.png">
 
 Please refer to the above picture while reading this text...
 
