@@ -1,6 +1,7 @@
-<img src="https://gitorious.org/cambridge/cambridge-gitorious-wiki/blobs/raw/master/images/android.png">
 
-Please refer to the above picture while reading this text...
+Here is a simple diagram of the components in the Android software stack:
+
+<img src="https://gitorious.org/cambridge/cambridge-gitorious-wiki/blobs/raw/master/images/android.png">
 
 The Android software stack has been put together with quite a clean design:
 
