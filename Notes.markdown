@@ -21,4 +21,4 @@
    * Udev rules for /etc/udev/rules.d :
       * [80-klaatu.rules](https://gitorious.org/cambridge/cambridge-gitorious-wiki/blobs/raw/master/data/80-klaatu.rules)
 
-   * https://docs.google.com/document/d/1A1Op7vNmPQgAQiafIxqa3bqMgo96YQEJqCcZo8o_TOY
+   * [more notes](https://docs.google.com/document/d/1A1Op7vNmPQgAQiafIxqa3bqMgo96YQEJqCcZo8o_TOY)
