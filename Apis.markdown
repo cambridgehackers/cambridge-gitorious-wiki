@@ -1,6 +1,6 @@
 APIs
 
-# Communications #
+## Communications
    * bluetooth
       * Dbus
    * cellular telephony
@@ -8,7 +8,7 @@ APIs
    * wlan
       * hardware/libhardware_legacy/include/hardware_legacy/wifi.h
       * system/core/include/netutils/dhcp.h
-Multimedia
+## Multimedia
    * audio path switching/volume
       * frameworks/av/include/media/AudioSystem.h
    * tones
@@ -33,7 +33,7 @@ Multimedia
    * trackplayer
       * frameworks/av/include/media/mediaplayer.h
       * http://developer.android.com/reference/android/media/MediaPlayer.html
-I/O
+## I/O
    * sensors: accelerometer/GPS/proximity/gyroscope/compass/ambient_light/temperature/pressure
       * frameworks/native/include/android/sensor.h
       * frameworks/native/include/gui/Sensor.h
