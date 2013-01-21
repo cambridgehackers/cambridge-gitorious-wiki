@@ -28,9 +28,8 @@
    * video
    * codecs: OMX
    * DRM
-   * trackplayer
+   * [Media Player](http://developer.android.com/reference/android/media/MediaPlayer.html)
       * frameworks/av/include/media/mediaplayer.h
-      * http://developer.android.com/reference/android/media/MediaPlayer.html
 
 ## I/O
    * sensors: accelerometer/GPS/proximity/gyroscope/compass/ambient_light/temperature/pressure
@@ -49,8 +48,7 @@
 ## System
    * pm (wakelocks)
       * frameworks/native/include/powermanager/IPowerManager.h
-   * security
-      * http://source.android.com/tech/security/index.html
+   * [security](http://source.android.com/tech/security/index.html)
    * [update](http://www.csee.usf.edu/~nsamteladze/res/projects/research/delta/lcn-paper.pdf)
    * [tracing](http://elinux.org/Android_Logging_System)
    * scripting
