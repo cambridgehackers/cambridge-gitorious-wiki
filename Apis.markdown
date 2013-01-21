@@ -1,4 +1,3 @@
-
 ## Communications
    * bluetooth
       * Dbus
@@ -22,7 +21,7 @@
       * frameworks/native/include/ui/FramebufferNativeWindow.h
       * frameworks/native/include/gui/SurfaceComposerClient.h
    * FM
-      * No standard solution; all vendor specific: https://groups.google.com/forum/fromgroupstopic/android-porting/qs_XHukOuyg
+      * (No standard solution; all vendor specific)[https://groups.google.com/forum/?fromgroups=#!topic/android-porting/qs_XHukOuyg]
    * camera
       * frameworks/av/services/camera/tests/CameraServiceTest/CameraServiceTest.cpp
       * hardware/libhardware/tests/camera2/camera2.cpp
@@ -52,8 +51,7 @@
       * frameworks/native/include/powermanager/IPowerManager.h
    * security
       * http://source.android.com/tech/security/index.html
-   * update
-      * http://www.csee.usf.edu/~nsamteladze/res/projects/research/delta/lcn-paper.pdf
+   * (update)[http://www.csee.usf.edu/~nsamteladze/res/projects/research/delta/lcn-paper.pdf]
    * tracing
       * http://elinux.org/Android_Logging_System
    * scripting
