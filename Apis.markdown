@@ -1,6 +1,6 @@
 ## Communications
    * bluetooth
-      * Dbus
+      * moved on 4.2 from bluez/dbus to bluedroid (BCOM donated stack)
    * cellular telephony
       * hardware/ril/include/telephony/ril.h
    * wlan
