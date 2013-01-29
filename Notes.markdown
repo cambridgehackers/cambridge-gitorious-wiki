@@ -27,4 +27,7 @@
       * git checkout HEAD -b master
       * git push foo master
 
+   * Disable web security on Safari:
+      * open -a '/Applications/Safari.app' --args --disable-web-security
+
    * [more notes](https://docs.google.com/document/d/1A1Op7vNmPQgAQiafIxqa3bqMgo96YQEJqCcZo8o_TOY/pub)
