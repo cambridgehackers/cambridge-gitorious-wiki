@@ -12,8 +12,13 @@ system.
 -   power management
 -   messaging
 
-One of several reference UI’s will be available to demonstrate the
-system:
+Service daemon functionality is accessed via binder interfaces.
+
+Other functionality may be accessed via existing AOS interfaces:
+
+-   See [Apis](https://gitorious.org/cambridge/pages/Apis)
+
+One of several reference UI’s may be used to demonstrate the system:
 
 -   Headless (command line only)
 -   Qt
