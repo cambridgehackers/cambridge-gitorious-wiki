@@ -1,7 +1,9 @@
 Generic steps of building and flashing on arbitrary hardware
 ------------------------------------------------------------
 
--   Get unlocked device
+-   Get unlocked device. The unlocking
+    procedure varies by device. Just search on the web for ‘unlock
+    bootloader <your device>’
 -   Replace bootloader with one that is built with ‘fastboot’ support
     (lk for example).
     -   rewriting bootloader (and partition table) may require
@@ -18,7 +20,7 @@ Generic steps of building and flashing on arbitrary hardware
 -   Flash custom OS images into device, using fastboot tool.
 
     adb reboot-bootloader
-    fastboot flash system.img
+    fastboot flash system system.img
     fastboot flash userdata userdata.img
 
     -   If there is a known way to get back to fastboot (key
