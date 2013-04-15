@@ -3,7 +3,7 @@ Generic steps of building and flashing on arbitrary hardware
 
 -   Get unlocked device. The unlocking
     procedure varies by device. Just search on the web for ‘unlock
-    bootloader <your device>’
+    bootloader **your device**’
 -   Replace bootloader with one that is built with ‘fastboot’ support
     (lk for example).
     -   rewriting bootloader (and partition table) may require
