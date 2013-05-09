@@ -1,5 +1,5 @@
-Generic steps of building and flashing on arbitrary hardware
-------------------------------------------------------------
+Generic device bring-up steps
+-----------------------------
 
 -   Get unlocked device. The unlocking
     procedure varies by device. Just search on the web for ‘unlock
@@ -17,6 +17,10 @@ Generic steps of building and flashing on arbitrary hardware
 -   Build OS using custom build manifest that incorporates vendor
     binaries and Nokia specific drivers. Recommend using build scripts
     on Jenkins server.
+
+Generic flashing steps
+----------------------
+
 -   Flash custom OS images into device, using fastboot tool.
     -   Note, fastboot and adb are available on Ubuntu (\>=12.10)
         directly:
