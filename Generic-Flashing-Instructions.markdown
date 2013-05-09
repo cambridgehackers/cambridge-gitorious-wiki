@@ -18,22 +18,34 @@ Generic steps of building and flashing on arbitrary hardware
     binaries and Nokia specific drivers. Recommend using build scripts
     on Jenkins server.
 -   Flash custom OS images into device, using fastboot tool.
+    -   Note, fastboot and adb are available on Ubuntu (\>=12.10)
+        directly:
+
+    sudo apt-get install android-tools-fastboot
+    sudo apt-get install android-tools-adb
+
+(If you are using 12.04, The packages still work. Dowload the packages
+from the following pages, and install with ‘dpkg -i’.)
+
+http://packages.ubuntu.com/quantal/android-tools-adb
+
+http://packages.ubuntu.com/quantal/android-tools-fastboot
 
     adb reboot-bootloader
     fastboot flash system system.img
     fastboot flash userdata userdata.img
 
-    -   If there is a known way to get back to fastboot (key
-        combinations), then the boot image (kernel) can also be flashed
+If there is a known way to get back to fastboot , then the boot
+image can also be flashed
 
-        fastboot flash boot boot.img
+    fastboot flash boot boot.img
 
-    -   Otherwise, load boot image in memory only
+Otherwise, load boot image in memory only
 
-        fastboot boot boot.img
-    -   For the first flash, the persist and cache images should also be
-        written
+    fastboot boot boot.img
 
-        fastboot flash persist persist.img
-        fastboot flash cache cache.img
+For the first flash, the persist and cache images should also be
+written
 
+    fastboot flash persist persist.img
+    fastboot flash cache cache.img
