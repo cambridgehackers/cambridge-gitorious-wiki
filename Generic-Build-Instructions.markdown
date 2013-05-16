@@ -10,8 +10,7 @@ So the basic setup is:
     mkdir mirror
     git clone git://gitorious.org/cambridge/klaatu-manifests.git klaatu-manifests
 
-Manual builds
--------------
+### Manual builds
 
 Build scripts may be built directly, by calling the build script from a
 build directory.
