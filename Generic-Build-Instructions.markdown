@@ -21,6 +21,10 @@ build directory.
 
 (where aaa is your desired build)
 
+Note: Custom Jenkins builds are suggested rather than manual builds.
+This allows for faster builds, build consistency, and better group build
+visibility/activity. See below.
+
 ### Jenkins builds
 
 The build scripts may be called from Jenkins by using the
@@ -59,6 +63,3 @@ the mirror itself.
 
 Build using Jenkins.
 
-Note: Custom Jenkins builds are suggested rather than manual builds.
-This allows for faster builds, build consistency, and better group build
-visibility/activity.
