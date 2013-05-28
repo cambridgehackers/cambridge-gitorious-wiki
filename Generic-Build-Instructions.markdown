@@ -65,7 +65,7 @@ Build using Jenkins.
 
 ### Mirror notes
 
-For new build machines or manual builds, It is suggested that you start
-with a copy of an existing mirror:
+For new build machines, It is suggested that you start with a copy of an
+existing mirror:
 
     scp -r somehost:/var/lib/jenkins/mirror/ mirror/
