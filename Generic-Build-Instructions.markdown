@@ -65,7 +65,12 @@ Build using Jenkins.
 
 ### Mirror notes
 
-For new build machines, It is suggested that you start with a copy of an
-existing mirror:
+For new build machines, It is suggested that you start with a copy
+of an existing mirror:
 
     scp -r somehost:/var/lib/jenkins/mirror/ mirror/
+
+Note, the mirror is assumed to be installed in /home/jenkins/mirror (or
+perhaps /var/lib/jenkins/mirror). In order to use the copied mirror,
+place the mirror in the same location as it existed on the source
+machine.
