@@ -74,3 +74,6 @@ Note, the mirror is assumed to be installed in /home/jenkins/mirror (or
 perhaps /var/lib/jenkins/mirror). In order to use the copied mirror,
 place the mirror in the same location as it existed on the source
 machine.
+
+Note: the default home directory for the user jenkins is
+/var/lib/jenkins
