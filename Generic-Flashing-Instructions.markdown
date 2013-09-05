@@ -39,14 +39,16 @@ http://packages.ubuntu.com/quantal/android-tools-fastboot
     fastboot flash system system.img
     fastboot flash userdata userdata.img
 
-If there is a known way to get back to fastboot , then the boot
-image can also be flashed
-
-    fastboot flash boot boot.img
-
-Otherwise, load boot image in memory only
+Before flashing boot.img, you should first try loading into ram and
+booting
 
     fastboot boot boot.img
+
+If there is a known way to get back to fastboot (key combinations),
+and boot.img is known to work then the boot image (kernel) can also be
+flashed. If unsure, do not flash boot, and load only into memory.
+
+    fastboot flash boot boot.img
 
 For the first flash, the persist and cache images should also be
 written
