@@ -70,6 +70,12 @@ of an existing mirror:
 
     scp -r somehost:/var/lib/jenkins/mirror/ mirror/
 
+or specific mirrors:
+
+    sudo rsync -av $USER@somehost:/var/lib/jenkins/mirrors/repos/android_googlesource_com_platform /var/lib/jenkins/mirror/repos/
+
+    sudo rsync -av $USER@somehost:/var/lib/jenkins/mirror/repos/codeaurora_org_platform_release /var/lib/jenkins/mirror/repos/
+
 Note, the mirror is assumed to be installed in /home/jenkins/mirror (or
 perhaps /var/lib/jenkins/mirror). In order to use the copied mirror,
 place the mirror in the same location as it existed on the source
