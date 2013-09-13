@@ -8,6 +8,11 @@ level as the scripts directory.
 So the basic setup is:
 
     mkdir mirror
+
+or
+
+    ln -s /var/lib/jenkins/mirror .
+
     git clone git://gitorious.org/cambridge/klaatu-manifests.git klaatu-manifests
 
 ### Manual builds
