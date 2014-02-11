@@ -14,5 +14,8 @@ http://python-for-android.readthedocs.org/en/latest/prerequisites/
 and follow the installation instructions until the SDK part. The SDK/NDK
 installation should not be necessary.
 
+IMPORTANT: Use cython v0.17 as 0.20 may not work. pip install
+cython==0.17
+
 For manual build and deploy instructions, click here: [[Manual Build
 |Kivy Manual Build]]
