@@ -9,7 +9,7 @@ http://python-for-android.readthedocs.org/en/latest/prerequisites/
 
 Then, check out p4a:
 
-    git clone https://github.com/kivatu/python-for-android.git
+    git clone https://github.com/kivatu/python-for-android_old.git
 
 then build:
 
