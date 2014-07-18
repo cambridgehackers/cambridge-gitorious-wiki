@@ -16,7 +16,8 @@ The goal of this project is to cut the Android s/w stack below the Dalvik layer,
    * Add busybox and a few replacement servers
    * Document the upper interface of the Android core pieces
    * Experiment with several different application frameworks, including:
-      * Qt
+      * Qt/QML
+      * Python/Kivy
       * HTML5 (probably both Mozilla and Webkit)
       * Game engines
 
